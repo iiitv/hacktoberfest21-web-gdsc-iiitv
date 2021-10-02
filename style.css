@@ -1,0 +1,98 @@
+body {
+    font-family: arial,sans-serif;
+    padding-bottom: 120px;
+    background-color: rgb(29, 29, 29);
+}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: white;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 10%;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fa-heart {
+    color: red;
+}
+h5 {
+    text-align: center;
+}
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -8px #999;
+    -moz-box-shadow: 0 8px 6px -8px #999;
+    box-shadow: 0 8px 6px -8px #999;
+    background-color: white !important;
+}
+.card-img-top {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: 5%;
+}
+.cards {
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body {
+    margin-left: auto;
+    margin-right: auto;
+}
+.top-bar {
+    --bs-bg-opacity: 0;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+    width: inherit;
+    border: 1px solid rgb(218, 218, 218);
+    -webkit-box-shadow: 8px 8px 6px -4px rgb(255, 255, 255);
+    -moz-box-shadow: 8px 8px 6px -4px rgb(255, 255, 255);
+    box-shadow: 8px 8px 6px -4px rgb(255, 255, 255);
+    background-color: rgb(73, 73, 73);
+    color: white;
+}
+.container-centered {
+    min-height: 100%;
+  margin-bottom: -30px; /* Negative half the height of the footer to leave space*/
+  position: relative;
+}
+.fa-instagram {
+    color: rgb(255, 255, 255);
+}
+.fa-linkedin {
+    color: rgb(255, 255, 255);
+}
+.textual-area {
+    height: 9rem;
+    text-align: center;
+}
+.tag {
+    background: rgb(195, 150, 228);
+    padding: 2%;
+    margin: 1%;
+}
+@media only screen and (min-width: 768px) {
+    .card {
+        width: 19rem;
+    }
+    .container-centered {
+        margin-right: 4.5%;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .card {
+        width: 20rem;
+    }
+}
