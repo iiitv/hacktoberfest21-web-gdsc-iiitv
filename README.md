@@ -12,7 +12,7 @@ Follow the instructions in order:
 2. Clone your fork, using
     `git clone https://github.com/{GITHUB_USERNAME}/hackotberfest21-web-gdsc-iiitv.git`
 
-3. Change Directory to `contribute`, using
+3. Change Directory to `hackotberfest21-web-gdsc-iiitv` , using
     `cd hackotberfest21-web-gdsc-iiitv`
 
 4. Create a branch named `feature-{github-username}`, using
