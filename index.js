@@ -1,7 +1,7 @@
 const divElement = document.getElementById("add_to_me");
 let string = "";
 (async () => {
-    const dataForCards = await (await fetch('/data.json')).json();
+    const dataForCards = await (await fetch('./index.json')).json();
     let count = 0;
     string += `<div class="row">`;
     for (let i=0;i<dataForCards.data.length;i++) {
