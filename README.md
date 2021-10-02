@@ -27,9 +27,9 @@ Follow the instructions in order:
       "name": {YOUR_NAME},
       "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
       "picture_url": {PICTURE_CDN_URL},
-      "instagram": {INSTA_HANDLE_LINK},
+      "twitter": {TWITTER_HANDLE_LINK},
+      "github": {YOUR_GITHUB_PROFILE_LINK},
       "linkedin": {GITHUB_PROFILE_LINK},
-      "link": {ANY_SOCIAL_MEDIA_LINK/GITHUB_LINK/PORTFOLIO_LINK}
       "quote": {QUOTE_WHICH_DEFINES_YOU}
     },
 ```
