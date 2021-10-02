@@ -20,7 +20,7 @@ let string = "";
               </div>
               <div class="row">
                 <span class="col-5"><a href="${user.instagram}"><i class="fab fa-instagram fa-lg"></a></i></span>
-                <span class="col-5"><a href="${user.facebook}"><i class="fab fa-linkedin fa-lg"></a></i></span>
+                <span class="col-5"><a href="${user.linkedin}"><i class="fab fa-linkedin fa-lg"></a></i></span>
                 <span class="col"><a href="${user.link}"><i class="fas fa-link fa-lg"></i></a></span>
             </div>
             </div>
@@ -44,7 +44,7 @@ let string = "";
               </div>
               <div class="row">
                 <span class="col-5"><a href="${user.instagram}"><i class="fab fa-instagram fa-lg"></a></i></span>
-                <span class="col-5"><a href="${user.facebook}"><i class="fab fa-linkedin fa-lg"></a></i></span>
+                <span class="col-5"><a href="${user.linkedin}"><i class="fab fa-linkedin fa-lg"></a></i></span>
                 <span class="col"><a href="${user.link}"><i class="fas fa-link fa-lg"></i></a></span>
             </div>
             </div>
