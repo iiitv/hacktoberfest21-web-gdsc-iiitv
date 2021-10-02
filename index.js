@@ -1,38 +1,58 @@
-const $main = document.querySelector('.page-content');
-let card = document.createElement("card");
-card.classList.add("card");
-let content = document.createElement("content");
-content.classList.add("content");
-let title = document.createElement("h2");
-title.classList.add("title");
-let paragraph = document.createElement("p");
-paragraph.classList.add("copy");
-let Github = document.createElement("button");
-Github.classList.add("btn");
-let Linkedin = document.createElement("button");
-Linkedin.classList.add("btn");
-let Twitter = document.createElement("button");
-Twitter.classList.add("btn");
-content.appendChild(title);
-content.appendChild(paragraph);
-content.appendChild(Github);
-content.appendChild(Linkedin);
-content.appendChild(Twitter);
-card.appendChild(content);
+const divElement = document.getElementById("add_to_me");
+let string = "";
 (async () => {
-    console.log("hello");
     const dataForCards = await (await fetch('/data.json')).json();
     let count = 0;
-    for (user of dataForCards.data) {
-        console.log(user);
-        console.log(count);
-        count += 1;
-        title.innerText = `${user.name}`;
-        paragraph.innerText = `Batch ${user.batch}`;
-        Github.innerText = "Github";
-        Linkedin.innerText = "Linkedin";
-        Twitter.innerText = "Twitter";
-        $main.appendChild(card.cloneNode(true));
-    }
-})();
+    string += `<div class="row">`;
+    for (let i=0;i<dataForCards.data.length;i++) {
+        let user = dataForCards.data[i];
+        if(count < 3)
+        {
+            string += `<div class="col-md-4 mt-3"><div class="card" >
+            <img class="card-img-top" src="${user.picture_url}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title center">${user.name}</h5>
+              <div class="textual-area">
+                <h6>${user.batch}</h6>
+                <p class="card-text mt-2">
+                  ${user.quote}
+                </p>
+              </div>
+              <div class="row">
+                <span class="col-5"><a href="${user.instagram}"><i class="fab fa-instagram fa-lg"></a></i></span>
+                <span class="col-5"><a href="${user.facebook}"><i class="fab fa-linkedin fa-lg"></a></i></span>
+                <span class="col"><a href="${user.link}"><i class="fas fa-link fa-lg"></i></a></span>
+            </div>
+            </div>
+          </div></div>`;
 
+          count++;
+        }
+        else 
+        {
+            console.log(count);
+            string+=`</div>`;
+            string += `<div class="row"><div class="col-md-4 mt-3"><div class="card" >
+            <img class="card-img-top" src="${user.picture_url}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title center">${user.name}</h5>
+              <div class="textual-area">
+                <h6>${user.batch}</h6>
+                <p class="card-text mt-2">
+                  ${user.quote}
+                </p>
+              </div>
+              <div class="row">
+                <span class="col-5"><a href="${user.instagram}"><i class="fab fa-instagram fa-lg"></a></i></span>
+                <span class="col-5"><a href="${user.facebook}"><i class="fab fa-linkedin fa-lg"></a></i></span>
+                <span class="col"><a href="${user.link}"><i class="fas fa-link fa-lg"></i></a></span>
+            </div>
+            </div>
+          </div></div>`;
+            count = 0;
+        }
+    }
+    string+=`</div>`;
+    divElement.innerHTML = string;
+    console.log(divElement)
+})();
