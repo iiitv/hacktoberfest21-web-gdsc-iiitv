@@ -18,9 +18,9 @@ Follow the instructions in order:
 4. Create a branch named `feature-{github-username}`, using
     `git checkout -b feature-{github-username}`
 
-6. `code .` for (vscode user) into the current directory.
+5. `code .` for (vscode user) into the current directory.
 
-7. Fill this block with necessary info of yourself.
+6. Fill this block with necessary info of yourself.
 
 ```
     {
@@ -33,16 +33,18 @@ Follow the instructions in order:
       "quote": {QUOTE_WHICH_DEFINES_YOU}
     },
 ```
+7. To get your `PICTURE_CDN_URL` head over to https://imgbb.com/ and upload one of your nice looking image 😎 and get's it's url. 
+
 8. Now add the above filled block to the `data` array in `data.json` file
    
 9. Stage your changes with commend `git add data.json`
 
-9. Now commit the changes with comment message,
+10. Now commit the changes with comment message,
     `git commit -m "Add {YOUR_GITHUB_USERNAME} information"`
 
-10. Push the changes using,
+11. Push the changes using,
     ` git push --set-upstream origin {CURRENT_ACTIVE_BRANCH_NAME}`
 
-11. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you too open a Pull request, just click on it and you are done.
+12. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you too open a Pull request, just click on it and you are done.
 
 Happy Hacking ✌️
