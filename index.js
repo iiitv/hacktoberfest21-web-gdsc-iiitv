@@ -50,7 +50,7 @@ content.appendChild(SocialDiv);
 card.appendChild(content);
 (async () => {
   console.log("hello");
-  const dataForCards = await (await fetch('https://iiitv.github.io/hackotberfest21-web-gdsc-iiitv/data.json')).json();
+  const dataForCards = await (await fetch('https://iiitv.github.io/hacktoberfest21-web-gdsc-iiitv/data.json')).json();
   let count = 0;
   Github.setAttribute("target", "_blank");
   Linkedin.setAttribute("target", "_blank");
