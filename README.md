@@ -18,7 +18,7 @@ Follow the instructions in order:
 4. Create a branch named `feature-{github-username}`, using
     `git checkout -b feature-{github-username}`
 
-5. `code .` for (vscode user) into the current directory.
+5. Open the current directory in your editor.
 
 6. Fill this block with necessary info of yourself.
 
