@@ -10,10 +10,10 @@ Follow the instructions in order:
 1. Fork this repository.
 
 2. Clone your fork, using
-    `git clone https://github.com/{GITHUB_USERNAME}/hackotberfest21-web-gdsc-iiitv.git`
+    `git clone https://github.com/{GITHUB_USERNAME}/hacktoberfest21-web-gdsc-iiitv.git`
 
-3. Change Directory to `hackotberfest21-web-gdsc-iiitv` , using
-    `cd hackotberfest21-web-gdsc-iiitv`
+3. Change Directory to `hacktoberfest21-web-gdsc-iiitv` , using
+    `cd hacktoberfest21-web-gdsc-iiitv`
 
 4. Create a branch named `feature-{github-username}`, using
     `git checkout -b feature-{github-username}`
