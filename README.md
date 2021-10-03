@@ -29,7 +29,7 @@ Follow the instructions in order:
       "picture_url": {PICTURE_CDN_URL},
       "twitter": {TWITTER_HANDLE_LINK},
       "github": {YOUR_GITHUB_PROFILE_LINK},
-      "linkedin": {GITHUB_PROFILE_LINK},
+      "linkedin": {Your_Linkedin_PROFILE_LINK},
       "quote": {QUOTE_WHICH_DEFINES_YOU}
     },
 ```
