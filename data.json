@@ -39,7 +39,7 @@
     {
       "name": "Rahul Bansal",
       "batch": 2019,
-      "picture_url": "https://ibb.co/tcCHbk7",
+      "picture_url": "https://i.ibb.co/S0v6KWh/IMG-20201214-WA0000.jpg",
       "twitter": "https://twitter.com/itz_rahul_rj",
       "github": "https://github.com/rahulbansal0502",
       "linkedin": "https://www.linkedin.com/in/rahulbansal52/",
@@ -100,6 +100,33 @@
       "quote": "Give It All !"
     },
     {
+      "name": "Garima Mangal",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/g49fgrq/mi-Pk9xu3-400x400.jpg",
+      "twitter": "https://twitter.com/AZU_URE",
+      "github": "https://github.com/AZU-URE",
+      "linkedin": "https://www.linkedin.com/in/garima-mangal-176a63200/",
+      "quote": "Somebody with a destructive mind and a smile on face😉"
+     },
+     {
+      "name": "Dhruv Rashiya",
+      "batch":2020,
+      "picture_url": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
+      "twitter":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08" ,
+      "github": "https://github.com/rashiyadhruv",
+      "linkedin": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
+      "quote": "If you want something different, you need to do something different"
+    }, 
+    {
+      "name": "Tirth Joshi",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/LRYHcK7/IMG-9298-Copy.jpg",
+      "twitter": "https://twitter.com/tirth5828",
+      "github": "https://github.com/tirth5828",
+      "linkedin": "https://www.linkedin.com/in/tirth5828",
+      "quote": "If you love to do something, there is no need to explain others why."
+    },
+    {
       "name": "Kewal Delhiwala",
       "batch": 2020,
       "picture_url": "https://i.ibb.co/2nRHtCM/Whats-App-Image-2021-09-29-at-3-47-43-PM.jpg",
@@ -108,7 +135,5 @@
       "linkedin": "https://www.linkedin.com/in/delhiwala-kewal-53756621a/",
       "quote": "Open source is 💓."
     }
-
-
   ]
 }
