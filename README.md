@@ -31,7 +31,7 @@ Follow the instructions in order:
       "github": {YOUR_GITHUB_PROFILE_LINK},
       "linkedin": {Your_Linkedin_PROFILE_LINK},
       "quote": {QUOTE_WHICH_DEFINES_YOU}
-    },
+    }
 ```
 7. To get your `PICTURE_CDN_URL` head over to https://imgbb.com/ and upload one of your nice looking image 😎 and get's it's url. 
 
