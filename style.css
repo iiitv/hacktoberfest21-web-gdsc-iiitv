@@ -13,7 +13,9 @@ html, body {
 body {
     font-family: arial, sans-serif;
     padding-bottom: 120px;
-    background-color: rgb(29, 29, 29);
+    background-color: white;
+    background-size: cover;
+    
 }
 
 .bg-light {
@@ -44,9 +46,9 @@ h5 {
 }
 
 .navbar {
-    -webkit-box-shadow: 0 8px 6px -8px #999;
+    /* -webkit-box-shadow: 0 8px 6px -8px #999;
     -moz-box-shadow: 0 8px 6px -8px #999;
-    box-shadow: 0 8px 6px -8px #999;
+    box-shadow: 0 8px 6px -8px #999; */
     background-color: white !important;
 }
 
@@ -86,6 +88,7 @@ h5 {
     text-align: center;
     color: whitesmoke;
     background-color: whitesmoke;
+    border-radius: 10%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.1);
 }
 
