@@ -86,7 +86,7 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/d68KMwS/myimg1.jpg",
       "twitter": "https://twitter.com/ManjuTh61602198",
-      "github": "https://github.com/mthakur7",
+      "github":"https://github.com/mthakur7",
       "linkedin": "https://www.linkedin.com/in/manju-thakur/",
       "quote": "Patience, persistence, and perspiration make an unbeatable combination for success."
     },
@@ -95,11 +95,11 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/n8hGVK8/Profile-Photo-Side.jpg",
       "twitter": "https://twitter.com/imchiragmathur",
-      "github": "https://github.com/Chirag-Mathur",
+      "github":"https://github.com/Chirag-Mathur",
       "linkedin": "https://www.linkedin.com/in/imchiragmathur/",
       "quote": "Give It All !"
-    },
-    {
+     },
+     {
       "name": "Garima Mangal",
       "batch": 2020,
       "picture_url": "https://i.ibb.co/g49fgrq/mi-Pk9xu3-400x400.jpg",
