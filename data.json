@@ -86,7 +86,7 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/d68KMwS/myimg1.jpg",
       "twitter": "https://twitter.com/ManjuTh61602198",
-      "github":"https://github.com/mthakur7",
+      "github": "https://github.com/mthakur7",
       "linkedin": "https://www.linkedin.com/in/manju-thakur/",
       "quote": "Patience, persistence, and perspiration make an unbeatable combination for success."
     },
@@ -95,7 +95,7 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/n8hGVK8/Profile-Photo-Side.jpg",
       "twitter": "https://twitter.com/imchiragmathur",
-      "github":"https://github.com/Chirag-Mathur",
+      "github": "https://github.com/Chirag-Mathur",
       "linkedin": "https://www.linkedin.com/in/imchiragmathur/",
       "quote": "Give It All !"
     },
@@ -107,16 +107,16 @@
       "github": "https://github.com/AZU-URE",
       "linkedin": "https://www.linkedin.com/in/garima-mangal-176a63200/",
       "quote": "Somebody with a destructive mind and a smile on face😉"
-     },
-     {
+    },
+    {
       "name": "Dhruv Rashiya",
-      "batch":2020,
+      "batch": 2020,
       "picture_url": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
-      "twitter":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08" ,
+      "twitter": "https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08",
       "github": "https://github.com/rashiyadhruv",
       "linkedin": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
       "quote": "If you want something different, you need to do something different"
-    }, 
+    },
     {
       "name": "Tirth Joshi",
       "batch": 2020,
@@ -134,7 +134,7 @@
       "github": "https://github.com/kewal-wq",
       "linkedin": "https://www.linkedin.com/in/delhiwala-kewal-53756621a/",
       "quote": "Open source is 💓."
-    }, 
+    },
     {
       "name": "Kamal Kumar",
       "batch": 2020,
@@ -149,9 +149,18 @@
       "batch": 2020,
       "picture_url": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
       "twitter": "https://twitter.com/Akhiles63114004",
-      "github":"https://github.com/AkhileshManda",
+      "github": "https://github.com/AkhileshManda",
       "linkedin": "https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
       "quote": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough."
+    }
+    {
+      "name": "Siddhant Pandey",
+      "batch": 2020,
+      "picture_url": "https://ibb.co/0hGnt49",
+      "twitter": "https://twitter.com/siddhanttp",
+      "github": "https://github.com/siddhant094"
+      "linkedin": "https://www.linkedin.com/in/siddhant094/",
+      "quote": "Don't stop until you are proud."
     }
   ]
 }
