@@ -243,5 +243,14 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"NEVER SAY NEVER"
     }
+    {
+      "name": "Siddhant Pandey",
+      "batch": 2020,
+      "picture_url": "https://ibb.co/0hGnt49",
+      "twitter": "https://twitter.com/siddhanttp",
+      "github": "https://github.com/siddhant094"
+      "linkedin": "https://www.linkedin.com/in/siddhant094/",
+      "quote": "Don't stop until you are proud."
+    }
   ]
 }
