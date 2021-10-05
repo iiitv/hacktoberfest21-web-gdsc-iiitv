@@ -10,6 +10,15 @@
       "quote": "A guy who is always HAPPY, makes everyone HAPPY and will remain HAPPY until his death. A great lover of laughter."
     },
     {
+      "name": "Smruti Ranjan Badatya",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/nQXjp5J/1633372203114.jpg",
+      "twitter": "https://twitter.com/MrLazyProgramer",
+      "github": "https://github.com/Mr-LazyProgrammer",
+      "linkedin": "https://www.linkedin.com/in/smruti-ranjan-badatya-5b26a6200/",
+      "quote": "The purpose of our lives is to be Happy."
+    },
+    {
       "name": "Himanshu Sanecha",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/YyqYYHB/myphoto.jpg",
@@ -197,6 +206,33 @@
       "github": "https://github.com/LalitKumar-2001",
       "linkedin": "https://www.linkedin.com/in/lalit-k-2001/",
       "quote": "Just doing it with a smile"
+    },
+    {
+      "name": "Ayush Chandil",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/XCJKkRs/IMG-20191026-224325.jpg",
+      "twitter": "https://twitter.com/ChandilAyush",
+      "github":"https://github.com/ayush-chandil",
+      "linkedin":"https://www.linkedin.com/in/ayush-chandil/",
+      "quote":"Whoever is happy will make others happy too"
+    },
+    {
+       "name": "Bibhav Shah",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/4TbbW4p/Whats-App-Image-2021-10-04-at-19-49-07.jpg",
+      "twitter": "https://twitter.com/home?lang=en",
+      "github": "https://github.com/Bibhavshah",
+      "linkedin": "",
+      "quote":"Unti the whistle doesn't goes off, don't give upp and keep kicking the ball<3!!!!!!"
+    },
+    {
+      "name": "Abhishek Yadav",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
+      "twitter": "https://twitter.com/Abhishe06488814?s=09",
+      "github": "https://github.com/AIABHISHEK",
+      "linkedin":"https://www.linkedin.com/in/abhishek-yadav-636580201",
+      "quote": "You were born an original, don't die a copy"
     }
 
   ]
