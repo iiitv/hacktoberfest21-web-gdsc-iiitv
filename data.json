@@ -10,15 +10,6 @@
       "quote": "A guy who is always HAPPY, makes everyone HAPPY and will remain HAPPY until his death. A great lover of laughter."
     },
     {
-      "name": "Smruti Ranjan Badatya",
-      "batch": 2024,
-      "picture_url": "https://i.ibb.co/nQXjp5J/1633372203114.jpg",
-      "twitter": "https://twitter.com/MrLazyProgramer",
-      "github": "https://github.com/Mr-LazyProgrammer",
-      "linkedin": "https://www.linkedin.com/in/smruti-ranjan-badatya-5b26a6200/",
-      "quote": "The purpose of our lives is to be Happy."
-    },
-    {
       "name": "Himanshu Sanecha",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/YyqYYHB/myphoto.jpg",
@@ -89,6 +80,15 @@
       "github": "https://github.com/aviraltandon21",
       "linkedin": "https://www.linkedin.com/in/aviral-tandon-b852891a1/",
       "quote": "Work hard in SILENCE; Let your SUCCESS make the noise"
+    },
+    {
+      "name": "Smruti Ranjan Badatya",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/nQXjp5J/1633372203114.jpg",
+      "twitter": "https://twitter.com/MrLazyProgramer",
+      "github": "https://github.com/Mr-LazyProgrammer",
+      "linkedin": "https://www.linkedin.com/in/smruti-ranjan-badatya-5b26a6200/",
+      "quote": "The purpose of our lives is to be Happy."
     },
     {
       "name": "Manju Thakur",
@@ -234,6 +234,15 @@
       "linkedin":"https://www.linkedin.com/in/abhishek-yadav-636580201",
       "quote": "You were born an original, don't die a copy"
     },
+      {
+      "name": "K Goutham",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/QX44tVT/WIN-20210831-19-38-36-Pro.jpg",
+      "twitter": "https://twitter.com/kundenagoutham",
+      "github": "https://github.com/KGoutham7214",
+      "linkedin": "https://www.linkedin.com/in/goutham-kundena-80244a222/",
+      "quote": "I'mpossible"
+    },
     {
       "name": "AASTHA CHAUHAN",
       "batch": 2024,
@@ -242,6 +251,15 @@
       "github":"https://github.com/aastha01chauhan",
       "linkedin":"http://www.linkedin.com/",
       "quote":"NEVER SAY NEVER"
+    },
+    {
+      "name": "ADITYA NAGAR",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/2ctmbSp/IMG-20190514-134349-516.jpg",
+      "twitter": "https://twitter.com/adityanagar_",
+      "github": "https://github.com/adityanagar10",
+      "linkedin": "https://linkedin.com/in/aditya-nagar-b33876114/",
+      "quote": "Without Hustle, your talent will only get you so far"
     },
     {
       "name": "Siddhant Pandey",
