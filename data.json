@@ -10,6 +10,15 @@
       "quote": "A guy who is always HAPPY, makes everyone HAPPY and will remain HAPPY until his death. A great lover of laughter."
     },
     {
+      "name": "Smruti Ranjan Badatya",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/nQXjp5J/1633372203114.jpg",
+      "twitter": "https://twitter.com/MrLazyProgramer",
+      "github": "https://github.com/Mr-LazyProgrammer",
+      "linkedin": "https://www.linkedin.com/in/smruti-ranjan-badatya-5b26a6200/",
+      "quote": "The purpose of our lives is to be Happy."
+    },
+    {
       "name": "Himanshu Sanecha",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/YyqYYHB/myphoto.jpg",
@@ -35,6 +44,15 @@
       "github": "https://github.com/The-Keshav-Agarwal",
       "linkedin": "https://www.linkedin.com/in/keshavagarwal1710/",
       "quote": "Shoot for the moon. Even if you miss it you will land among the stars"
+    },
+    {
+      "name": "Rahul Bansal",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/S0v6KWh/IMG-20201214-WA0000.jpg",
+      "twitter": "https://twitter.com/itz_rahul_rj",
+      "github": "https://github.com/rahulbansal0502",
+      "linkedin": "https://www.linkedin.com/in/rahulbansal52/",
+      "quote": "Open source is 💓."
     },
     {
       "name": "Robin Jonval",
@@ -91,15 +109,157 @@
       "quote": "Give It All !"
     },
     {
-          
-      "name": "Abhishek Singh",
+      "name": "Riya Parikh",
       "batch": 2020,
-      "picture_url": "https://i.ibb.co/d6Nnzwt/IMG-20210321-201037.jpg",
-      "twitter":"",
-      "github": "github.com/5-Abhi-5",
-      "linkedin": "www.linkedin.com/in/abhishek-singh-8191991b8/",
-      "quote": "Practice is the key to Success" 
-     }
-    
+      "picture_url":"https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
+      "twitter": "https://twitter.com/meMoodyMind",
+      "github": "https://github.com/RiyaParikh0112",
+      "linkedin": "https://www.linkedin.com/in/riya-parikh-27b345196",
+      "quote": "Carpe Diem"
+    },
+    {
+      "name": "Garima Mangal",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/g49fgrq/mi-Pk9xu3-400x400.jpg",
+      "twitter": "https://twitter.com/AZU_URE",
+      "github": "https://github.com/AZU-URE",
+      "linkedin": "https://www.linkedin.com/in/garima-mangal-176a63200/",
+      "quote": "Somebody with a destructive mind and a smile on face😉"
+     },
+     {
+      "name": "Dhruv Rashiya",
+      "batch":2020,
+      "picture_url": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
+      "twitter":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08" ,
+      "github": "https://github.com/rashiyadhruv",
+      "linkedin": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
+      "quote": "If you want something different, you need to do something different !!"  
+    }, 
+    {
+      "name": "Tirth Joshi",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/LRYHcK7/IMG-9298-Copy.jpg",
+      "twitter": "https://twitter.com/tirth5828",
+      "github": "https://github.com/tirth5828",
+      "linkedin": "https://www.linkedin.com/in/tirth5828",
+      "quote": "If you love to do something, there is no need to explain others why."
+    },
+    {
+      "name": "Kewal Delhiwala",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/2nRHtCM/Whats-App-Image-2021-09-29-at-3-47-43-PM.jpg",
+      "twitter": "",
+      "github": "https://github.com/kewal-wq",
+      "linkedin": "https://www.linkedin.com/in/delhiwala-kewal-53756621a/",
+      "quote": "Open source is 💓."
+    }, 
+    {
+      "name": "Kamal Kumar",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/k9N4zLQ/photo-2021-06-14-16-31-15.jpg",
+      "twitter": "",
+      "github": "https://github.com/kamalkumar7",
+      "linkedin": "https://www.linkedin.com/in/kamal-kumar-7421921aa/",
+      "quote": ""
+    },
+    {
+      "name": "Akhilesh Manda",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
+      "twitter": "https://twitter.com/Akhiles63114004",
+      "github":"https://github.com/AkhileshManda",
+      "linkedin": "https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
+      "quote": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough."
+    },
+    {
+      "name": "Dhruv Dave",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/jJkhnZY/Whats-App-Image-2021-10-04-at-7-25-08-PM.jpg",
+      "twitter": "https://twitter.com/DhruvDa74935138",
+      "github": "https://github.com/DhruvDave12",
+      "linkedin": "www.linkedin.com/in/dhruv1201",
+      "quote": "The way to get started is to quit talking and begin doing"
+    },
+    {
+      "name": "Akshita",
+      "batch": "2018",
+      "picture_url": "https://i.ibb.co/7JhkZ0z/tcs-img-3.jpg",
+      "twitter": "",
+      "github": "https://github.com/akshitaPrajapati",
+      "linkedin": "https://www.linkedin.com/in/akshita-prajapati",
+      "quote": "Man is made by his belief, as he believes so he is"
+    },
+    {
+      "name": "YASH BORIKAR",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/Tq090Yg/Profile.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/yash-borikar",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"Always Ready for It"
+    },
+    {
+      "name": "Lalit Kumar",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/7rXHcNW/147-C1694-0-DAD-4192-A777-6-A8-C56-BA04-A4-4-5005-c.jpg",
+      "twitter": "https://twitter.com/Klalit2000",
+      "github": "https://github.com/LalitKumar-2001",
+      "linkedin": "https://www.linkedin.com/in/lalit-k-2001/",
+      "quote": "Just doing it with a smile"
+    },
+    {
+      "name": "Ayush Chandil",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/XCJKkRs/IMG-20191026-224325.jpg",
+      "twitter": "https://twitter.com/ChandilAyush",
+      "github":"https://github.com/ayush-chandil",
+      "linkedin":"https://www.linkedin.com/in/ayush-chandil/",
+      "quote":"Whoever is happy will make others happy too"
+    },
+    {
+       "name": "Bibhav Shah",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/4TbbW4p/Whats-App-Image-2021-10-04-at-19-49-07.jpg",
+      "twitter": "https://twitter.com/home?lang=en",
+      "github": "https://github.com/Bibhavshah",
+      "linkedin": "",
+      "quote":"Unti the whistle doesn't goes off, don't give upp and keep kicking the ball<3!!!!!!"
+    },
+    {
+      "name": "Abhishek Yadav",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
+      "twitter": "https://twitter.com/Abhishe06488814?s=09",
+      "github": "https://github.com/AIABHISHEK",
+      "linkedin":"https://www.linkedin.com/in/abhishek-yadav-636580201",
+      "quote": "You were born an original, don't die a copy"
+    },
+      {
+      "name": "K Goutham",
+      "batch": 2020,
+      "picture_url": "https://i.ibb.co/QX44tVT/WIN-20210831-19-38-36-Pro.jpg",
+      "twitter": "https://twitter.com/kundenagoutham",
+      "github": "https://github.com/KGoutham7214",
+      "linkedin": "https://www.linkedin.com/in/goutham-kundena-80244a222/",
+      "quote": "I'mpossible"
+    },
+    {
+      "name": "AASTHA CHAUHAN",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/khbc6Tc/IMG-9468.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/aastha01chauhan",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"NEVER SAY NEVER"
+    },
+    {
+      "name": "ADITYA NAGAR",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/2ctmbSp/IMG-20190514-134349-516.jpg",
+      "twitter": "https://twitter.com/adityanagar_",
+      "github": "https://github.com/adityanagar10",
+      "linkedin": "https://linkedin.com/in/aditya-nagar-b33876114/",
+      "quote": "Without Hustle, your talent will only get you so far"
+    }
   ]
 }
