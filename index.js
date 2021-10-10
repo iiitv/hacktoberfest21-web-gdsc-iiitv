@@ -1,3 +1,10 @@
+
+$(window).on('load', function () {
+  $(".loader").fadeOut("slow");
+});
+
+
+
 const $main = document.querySelector('.page-content');
 let card = document.createElement("card");
 card.classList.add("card");
@@ -76,4 +83,3 @@ card.appendChild(content);
     $main.appendChild(card.cloneNode(true));
   }
 })();
-
