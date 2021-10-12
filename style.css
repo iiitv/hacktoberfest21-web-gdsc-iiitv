@@ -8,12 +8,20 @@
 
 html, body {
     height: 100%;
+    
 }
 
 body {
     font-family: arial, sans-serif;
     padding-bottom: 120px;
-    background-color: rgb(29, 29, 29);
+}
+
+.light-color {
+    background-color: white;
+
+}
+.dark-color {
+    background-color: #002240;
 }
 
 .bg-light {
@@ -47,7 +55,7 @@ h5 {
     -webkit-box-shadow: 0 8px 6px -8px #999;
     -moz-box-shadow: 0 8px 6px -8px #999;
     box-shadow: 0 8px 6px -8px #999;
-    background-color: white !important;
+    
 }
 
 * {
@@ -61,6 +69,7 @@ h5 {
     max-width: 1024px;
     margin: 0 auto;
     font-family: var(--font-sans);
+    
 }
 
 @media (min-width: 600px) {
@@ -472,4 +481,48 @@ html {
 
 .scroll-up-btn:hover {
   filter: brightness(90%);
+}
+
+.navbar {
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    align-content: center;
+    align-self: center;
+}
+.navi {
+    display: flex;
+
+}
+
+.navi ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+ margin: 10px 0;
+}
+.navi ul a {
+    text-decoration: none;
+    /* color: #0d0d0d; */
+    margin: 10px;
+}
+
+.btn-1 {
+    border: none;
+    border-radius: 15px;
+    text-decoration: none;
+    background-color: #002240;
+    text-align: center;
+    margin: 10px 0;
+    color: white;
+    padding: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.light-link {
+    color: white;
+}
+.dark-link {
+    color: black;
 }

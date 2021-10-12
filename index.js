@@ -128,3 +128,20 @@ $(document).ready(function () {
     },
   });
 });
+
+document.querySelector(".btn-1").addEventListener("click", function() {
+  document.getElementById('body').classList.toggle("dark-color");
+  document.getElementById('body').classList.toggle("light-color");
+  document.getElementById('html').classList.toggle("dark-color");
+  document.getElementById('html').classList.toggle("light-color");
+  document.querySelector('.page-content').classList.toggle("dark-color");
+  document.querySelector('.page-content').classList.toggle("light-color");
+  document.querySelector('.navbar').classList.toggle("dark-color");
+  document.querySelector('.navbar').classList.toggle("light-color");
+  document.querySelector('.a').classList.toggle("dark-link");
+  document.querySelector('.a').classList.toggle("light-link");
+  document.querySelector('.b').classList.toggle("dark-link");
+  document.querySelector('.b').classList.toggle("light-link");
+  document.querySelector('.c').classList.toggle("dark-link");
+  document.querySelector('.c').classList.toggle("light-link");
+})
