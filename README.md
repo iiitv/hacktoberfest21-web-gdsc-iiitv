@@ -123,11 +123,6 @@ git push -u origin <your_branch_name>
 Happy Hacking ✌️
 
 
-
-## Project Admin 👩: 
-<a href="https://www.linkedin.com/in/USERNAME/">
-<h5 align="center"><b>name</b></a>
-
 # License
 
 <p align="center">
