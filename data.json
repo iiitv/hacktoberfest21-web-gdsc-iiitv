@@ -125,8 +125,8 @@
       "github": "https://github.com/AZU-URE",
       "linkedin": "https://www.linkedin.com/in/garima-mangal-176a63200/",
       "quote": "Somebody with a destructive mind and a smile on face😉"
-     },
-     {
+    },
+    {
       "name": "Dhruv Rashiya",
       "batch":2020,
       "picture_url": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
@@ -226,7 +226,7 @@
       "quote":"Whoever is happy will make others happy too"
     },
     {
-       "name": "Bibhav Shah",
+      "name": "Bibhav Shah",
       "batch": 2020,
       "picture_url": "https://i.ibb.co/4TbbW4p/Whats-App-Image-2021-10-04-at-19-49-07.jpg",
       "twitter": "https://twitter.com/home?lang=en",
@@ -360,7 +360,7 @@
       "linkedin": "https://www.linkedin.com/in/subhash-karthik-5ab504196/",
       "quote": "Don't worry, you will get it"
     },
-     {
+    {
       "name": "Danish khan",
       "batch": 2023,
       "picture_url": "https://i.ibb.co/nmCY42V/65593339.png",
@@ -458,6 +458,16 @@
       "github": "https://github.com/Adyasha28",
       "linkedin": "https://www.linkedin.com/in/adyasha-s-1ab144205",
       "quote": "Simplicity is the ultimate sophistication."
+    },
+    {
+      "name": "Bharti Meena",
+      "batch": 2019,
+      "picture_url": "https://i.ibb.co/hVc8bKD/IMG-20210129-202504.jpg",
+      "twitter": "https://twitter.com/Meenabharti8",
+      "github": "https://github.com/bhartimeena",
+      "linkedin": "https://www.linkedin.com/in/bharti-m-15b624221/",
+      "quote": "You are only responsible for your own happiness"
     }
+
   ]
 }
