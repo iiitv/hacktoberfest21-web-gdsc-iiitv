@@ -95,23 +95,32 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/d68KMwS/myimg1.jpg",
       "twitter": "https://twitter.com/ManjuTh61602198",
-      "github":"https://github.com/mthakur7",
+      "github": "https://github.com/mthakur7",
       "linkedin": "https://www.linkedin.com/in/manju-thakur/",
       "quote": "Patience, persistence, and perspiration make an unbeatable combination for success."
+    },
+    {
+      "name": "Daywison Silva",
+      "batch": 2021,
+      "picture_url": "https://i.ibb.co/qyTQmR1/Perfil.jpg",
+      "twitter": "https://twitter.com/DaywisonSilva3",
+      "github": "https://github.com/DaywisonSilva",
+      "linkedin": "https://www.linkedin.com/in/daywison-s-ab11b6121/",
+      "quote": "I'm a front-end developer, I love CSS, and I'm passionate about Vue.js and Quasar Framework."
     },
     {
       "name": "Chirag Mathur",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/n8hGVK8/Profile-Photo-Side.jpg",
       "twitter": "https://twitter.com/imchiragmathur",
-      "github":"https://github.com/Chirag-Mathur",
+      "github": "https://github.com/Chirag-Mathur",
       "linkedin": "https://www.linkedin.com/in/imchiragmathur/",
       "quote": "Give It All !"
     },
     {
       "name": "Riya Parikh",
       "batch": 2020,
-      "picture_url":"https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
+      "picture_url": "https://i.ibb.co/8cS47ZZ/Whats-App-Image-2021-10-04-at-19-24-42.jpg",
       "twitter": "https://twitter.com/meMoodyMind",
       "github": "https://github.com/RiyaParikh0112",
       "linkedin": "https://www.linkedin.com/in/riya-parikh-27b345196",
@@ -128,13 +137,13 @@
     },
     {
       "name": "Dhruv Rashiya",
-      "batch":2020,
+      "batch": 2020,
       "picture_url": "https://i.ibb.co/3RkjckN/Whats-App-Image-2021-10-04-at-7-29-04-PM.jpg",
-      "twitter":"https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08" ,
+      "twitter": "https://twitter.com/DhruvRashiya?t=Uu-EWAfpwq7UPa9VhLv8TQ&s=08",
       "github": "https://github.com/rashiyadhruv",
       "linkedin": "https://www.linkedin.com/in/dhruv-rashiya-6164791b8",
-      "quote": "If you want something different, you need to do something different !!"  
-    }, 
+      "quote": "If you want something different, you need to do something different !!"
+    },
     {
       "name": "Tirth Joshi",
       "batch": 2020,
@@ -152,7 +161,7 @@
       "github": "https://github.com/kewal-wq",
       "linkedin": "https://www.linkedin.com/in/delhiwala-kewal-53756621a/",
       "quote": "Open source is 💓."
-    }, 
+    },
     {
       "name": "Kamal Kumar",
       "batch": 2020,
@@ -167,7 +176,7 @@
       "batch": 2023,
       "picture_url": "https://i.ibb.co/vHkcb0y/Polish-20200311-084432730.jpg",
       "twitter": "https://twitter.com/Vaibhav20091999",
-      "github":"https://github.com/Vaibhav763",
+      "github": "https://github.com/Vaibhav763",
       "linkedin": "https://www.linkedin.com/in/VaibhavMNNIT/",
       "quote": "Enthusiast."
     },
@@ -176,7 +185,7 @@
       "batch": 2020,
       "picture_url": "https://i.ibb.co/4Rb9RRT/myimage.jpg",
       "twitter": "https://twitter.com/Akhiles63114004",
-      "github":"https://github.com/AkhileshManda",
+      "github": "https://github.com/AkhileshManda",
       "linkedin": "https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/",
       "quote": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough."
     },
@@ -203,9 +212,9 @@
       "batch": 2020,
       "picture_url": "https://i.ibb.co/Tq090Yg/Profile.jpg",
       "twitter": "https://twitter.com/",
-      "github":"https://github.com/yash-borikar",
-      "linkedin":"http://www.linkedin.com/",
-      "quote":"Always Ready for It"
+      "github": "https://github.com/yash-borikar",
+      "linkedin": "http://www.linkedin.com/",
+      "quote": "Always Ready for It"
     },
     {
       "name": "Lalit Kumar",
@@ -221,9 +230,9 @@
       "batch": 2019,
       "picture_url": "https://i.ibb.co/XCJKkRs/IMG-20191026-224325.jpg",
       "twitter": "https://twitter.com/ChandilAyush",
-      "github":"https://github.com/ayush-chandil",
-      "linkedin":"https://www.linkedin.com/in/ayush-chandil/",
-      "quote":"Whoever is happy will make others happy too"
+      "github": "https://github.com/ayush-chandil",
+      "linkedin": "https://www.linkedin.com/in/ayush-chandil/",
+      "quote": "Whoever is happy will make others happy too"
     },
     {
       "name": "Bibhav Shah",
@@ -232,7 +241,7 @@
       "twitter": "https://twitter.com/home?lang=en",
       "github": "https://github.com/Bibhavshah",
       "linkedin": "",
-      "quote":"Unti the whistle doesn't goes off, don't give upp and keep kicking the ball<3!!!!!!"
+      "quote": "Unti the whistle doesn't goes off, don't give upp and keep kicking the ball<3!!!!!!"
     },
     {
       "name": "Abhishek Yadav",
@@ -240,7 +249,7 @@
       "picture_url": "https://i.ibb.co/ssB0mv4/IMG-20211002-093009329-HDR-2.jpg",
       "twitter": "https://twitter.com/Abhishe06488814?s=09",
       "github": "https://github.com/AIABHISHEK",
-      "linkedin":"https://www.linkedin.com/in/abhishek-yadav-636580201",
+      "linkedin": "https://www.linkedin.com/in/abhishek-yadav-636580201",
       "quote": "You were born an original, don't die a copy"
     },
     {
@@ -266,9 +275,9 @@
       "batch": 2024,
       "picture_url": "https://i.ibb.co/khbc6Tc/IMG-9468.jpg",
       "twitter": "https://twitter.com/",
-      "github":"https://github.com/aastha01chauhan",
-      "linkedin":"http://www.linkedin.com/",
-      "quote":"NEVER SAY NEVER"
+      "github": "https://github.com/aastha01chauhan",
+      "linkedin": "http://www.linkedin.com/",
+      "quote": "NEVER SAY NEVER"
     },
     {
       "name": "ADITYA NAGAR",
@@ -418,7 +427,7 @@
       "name": "Mansi Tundele",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/4NVt1hw/20201114-224607.jpg",
-      "twitter":"",
+      "twitter": "",
       "github": "https://github.com/Mansi-2000",
       "linkedin": "https://www.linkedin.com/in/mansi-tundele-49140a204/",
       "quote": "Stay committed to your decisions, but stay flexible in your approach"
@@ -477,6 +486,5 @@
       "linkedin": "https://www.linkedin.com/in/bharti-m-15b624221/",
       "quote": "You are only responsible for your own happiness"
     }
-
   ]
 }
