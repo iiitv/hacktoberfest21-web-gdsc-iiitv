@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Hernandes Matheus da Silva",
+      "batch": 2021,
+      "picture_url": "https://ibb.co/SNDhRkK",
+      "twitter": "https://twitter.com/HernandesMathe3",
+      "github": "https://github.com/Hernandes-Silva",
+      "linkedin": "https://www.linkedin.com/in/hernandes-matheus-1536b2215/",
+      "quote": "i love developer"
+    },
+    {
       "name": "Amitvikram Dwivedi",
       "batch": 2019,
       "picture_url": "https://i.ibb.co/VC7hMWy/photo.jpg",
