@@ -43,7 +43,7 @@ h5 {
     text-align: center;
 }
 
-.navbar {
+.navbars {
     -webkit-box-shadow: 0 8px 6px -8px #999;
     -moz-box-shadow: 0 8px 6px -8px #999;
     box-shadow: 0 8px 6px -8px #999;
@@ -61,6 +61,7 @@ h5 {
     max-width: 1024px;
     margin: 0 auto;
     font-family: var(--font-sans);
+    background-color: #000;
 }
 
 @media (min-width: 600px) {
@@ -473,3 +474,53 @@ html {
 .scroll-up-btn:hover {
   filter: brightness(90%);
 }
+/*---*/
+
+  .navbar {
+    background-color:#000;
+  }
+  nav {
+    height:110px;
+  }
+  .navbar-nav {
+    margin:auto;
+  }
+  .nav-link {
+    margin:10px 25px;
+    color:#fff;
+  }
+  .nav-link:hover {
+    color:yellow;
+  }
+  .box {
+    width:100%;
+    height:30px;
+    background-color:#000;
+    position:relative;
+  }
+  .box-1 {
+    width:50%;
+    background-color:#fff;
+    height:100%;
+    border-radius:0px 40px 0px 0px;
+    border-top:5px solid yellow;
+    border-right:5px solid yellow;
+  }
+  .box-2 {
+    position:absolute;
+    background-color:#fff;
+    height:100%;
+    width:50%;
+    right:0;
+    top:0;
+    border-radius:40px 0px 0px 0px;
+    border-top:5px solid yellow;
+    border-left:5px solid yellow;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: white;
+    color:black;
+    height: 40px;
+  }
