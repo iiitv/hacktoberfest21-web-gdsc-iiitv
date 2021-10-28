@@ -21,17 +21,117 @@
 
     <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
     <title>HacktoberFest-IIITV</title>
+    <style>
+        @keyframes loader {
+
+            0%,
+            10%,
+            100% {
+                width: 80px;
+                height: 80px;
+            }
+
+            65% {
+                width: 150px;
+                height: 150px;
+            }
+        }
+
+        @keyframes loaderBlock {
+
+            0%,
+            30% {
+                transform: rotate(0);
+            }
+
+            55% {
+                background-color: #ffffff;
+            }
+
+            100% {
+                transform: rotate(90deg);
+            }
+        }
+
+        @keyframes loaderBlockInverse {
+
+            0%,
+            20% {
+                transform: rotate(0);
+            }
+
+            55% {
+                background-color: #ffffff;
+            }
+
+            100% {
+                transform: rotate(-90deg);
+            }
+        }
+
+        .loader {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 80px;
+            height: 80px;
+            transform: translate(-50%, -50%) rotate(45deg) translate3d(0, 0, 0);
+            animation: loader 1.2s infinite ease-in-out;
+            z-index: 2;
+        }
+
+        .loader span {
+            position: absolute;
+            display: block;
+            width: 40px;
+            height: 40px;
+            
+            animation: loaderBlock 1.2s infinite ease-in-out both;
+        }
+
+        .loader span:nth-child(1) {
+            background-color: #ff0000;
+            top: 0;
+            left: 0;
+        }
+
+        .loader span:nth-child(2) {
+            background-color: #0099ff;
+            top: 0;
+            right: 0;
+            animation: loaderBlockInverse 1.2s infinite ease-in-out both;
+        }
+
+        .loader span:nth-child(3) {
+            background-color: #1eff00;
+            bottom: 0;
+            left: 0;
+            animation: loaderBlockInverse 1.2s infinite ease-in-out both;
+        }
+
+        .loader span:nth-child(4) {
+            background-color: #fae900;
+            bottom: 0;
+            right: 0;
+        }
+
+        body {
+            background-color: #ffffff;
+        }
+    </style>
+
 </head>
+
 
 <body>
 
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
-    integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-  <div class="scroll-up-btn">
-    <i class="fas fa-angle-up"></i>
-  </div>
-
+    <div class="loader">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
 
     <nav class="navbar navbar-light bg-light top-bar">
         <div class="container">
@@ -48,6 +148,10 @@
             <h5 class="center">Made with <i class="fas fa-heart"></i> by Amitvikram and Himanshu</h5>
         </div>
     </nav>
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="./index.js"></script>
 </body>
 

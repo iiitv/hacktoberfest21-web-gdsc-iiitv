@@ -1,3 +1,10 @@
+
+$(window).on('load', function () {
+  $(".loader").fadeOut("slow");
+});
+
+
+
 const $main = document.querySelector('.page-content');
 let card = document.createElement("card");
 card.classList.add("card");
@@ -78,9 +85,6 @@ card.appendChild(content);
 })();
 
 
-
-
-
 $(document).ready(function () {
   $(window).scroll(function () {
     // sticky navbar on scroll script
@@ -128,3 +132,4 @@ $(document).ready(function () {
     },
   });
 });
+
